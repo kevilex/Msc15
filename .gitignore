@@ -1,0 +1,10 @@
+#Div settings
+.vscode
+
+#Testing folder
+test
+
+# colcon/CMake output
+build
+log
+install
